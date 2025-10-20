@@ -1,0 +1,11 @@
+id_transacao,nome_servico,status_http,tempo_resposta_ms
+T001,Autenticacao,200,55
+T002,ProcessamentoPedido,503,1500
+T003,BuscaCatalogo,200,80
+T004,Autenticacao,200,62
+T005,ProcessamentoPedido,201,350
+T006,BuscaCatalogo,404,120
+T007,Autenticacao,200,58
+T008,ProcessamentoPedido,201,410
+T009,BuscaCatalogo,200,75
+T010,Autenticacao,500,1050
