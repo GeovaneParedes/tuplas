@@ -42,6 +42,8 @@ O repositório deve conter os seguintes arquivos:
 ### ➡️ Saída Esperada
 O script irá imprimir as métricas estatísticas no console e salvar um gráfico de distribuição de serviços em um diretório novo ou existente: `imagens_analise/distribuicao_servicos.png`.
 
+(imagens_analise/distribuicao_servicos.png)
+
 ---
 
 ## 🇺🇸 English Section (EN-US)
