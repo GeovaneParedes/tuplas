@@ -22,7 +22,8 @@ def garantir_diretorio(caminho_diretorio: str):
         print(f"\nDiretório de saída '{caminho_diretorio}' garantido.")
     except Exception as e:
         # Tratamento de erro robusto
-        print(f"ERRO CRÍTICO: Não foi possível criar o diretório '{caminho_diretorio}'. Detalhe: {e}")
+        print("ERRO CRÍTICO: Não foi possível criar o diretório " 
+              f"'{caminho_diretorio}'. Detalhe: {e}")
         raise
 
 def ler_dados_como_tuplas(caminho_arquivo: str) -> List[Tuple]:
