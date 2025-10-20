@@ -1,6 +1,6 @@
 # 📈 Análise de Performance de Aplicações com Tuplas em Python
 
-[cite_start]Este projeto demonstra uma abordagem sênior para a ingestão, processamento e análise de dados usando o Python 3.11+[cite: 2], focando em **tuplas** como estrutura de dados primária para garantir imutabilidade e integridade durante a leitura inicial. [cite_start]A solução é modular, utiliza tratamento robusto de erros [cite: 3] [cite_start]e adere aos princípios de Clean Code[cite: 6].
+Este projeto demonstra uma abordagem sênior para a ingestão, processamento e análise de dados usando o Python 3.11+, focando em **tuplas** como estrutura de dados primária para garantir imutabilidade e integridade durante a leitura inicial. A solução é modular, utiliza tratamento robusto de erros e adere aos princípios de Clean Code.
 
 ---
 
@@ -80,6 +80,7 @@ The repository should contain the following files:
     ```bash
     python analise_performance.py
     ```
+Autor [DevGege](https://github.com/GeovaneParedes)
 
 ### ➡️ Expected Output
 The script will print key statistical metrics to the console and save a service distribution chart to a new or existing directory: `imagens_analise/distribuicao_servicos.png`.
